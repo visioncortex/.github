@@ -12,3 +12,5 @@ From the [ShapeCode](https://github.com/visioncortex/ShapeCode) investigation, a
 
 The next thing I am interested in, which is equally fascinating, is 'scribble', aka hand writing recognition.
 If you are interested in building the next open-source hand writing recognition engine from scratch together, may be we can have a chat.
+
+-Chris
