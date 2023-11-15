@@ -22,4 +22,6 @@ Just to remind the future self, there are a number of basic algorithms to be bru
 3. Bezier curve simplification
 4. Shape interpolation
 
+Final note: please do not email me in private for help on programming or to work on your AI startup.
+
 -Chris
