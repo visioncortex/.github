@@ -19,7 +19,6 @@ Just to remind the future self, there are a number of basic algorithms to be bru
 
 1. Polygon triangulation
 2. Stroke thinning / skeletonization
-3. Bezier curve simplification
-4. Shape interpolation
+3. Shape interpolation
 
 -Chris
