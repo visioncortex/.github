@@ -15,10 +15,6 @@ In case you wonder, [VTracer](https://github.com/visioncortex/vtracer) is in fac
 The next thing I am interested in, which is equally fascinating, is 'scribble', aka hand writing recognition.
 If you are interested in building the next open-source hand writing recognition engine from scratch together, may be we can have a chat.
 
-Just to remind the future self, there are a number of basic algorithms to be brushed up and published:
-
-1. Polygon triangulation
-2. Stroke thinning / skeletonization
-3. Shape interpolation
+[Some more random things](https://github.com/visioncortex/.github/tree/main/gallery)
 
 -Chris
