@@ -15,6 +15,6 @@ In case you wonder, [VTracer](https://github.com/visioncortex/vtracer) is in fac
 The next thing I am interested in, which is equally fascinating, is 'scribble', aka hand writing recognition.
 If you are interested in building the next open-source hand writing recognition engine from scratch together, may be we can have a chat.
 
-[Some more random things](https://github.com/visioncortex/.github/tree/main/gallery)
+[What is Semantic Computer Vision](https://github.com/visioncortex/.github/tree/main/gallery)
 
 -Chris
