@@ -16,6 +16,7 @@ For the technologies that we developed, they all share a common set of technique
 |-----|
 |A 'simple' demo of symbol extraction and recognition. It would have been real-simple if the image is black-and-white, or the background color is known priori.|
 
-|![image](https://github.com/visioncortex/.github/assets/1782664/20fc6361-177e-47a9-87f1-c4745f83cd6b)|
+|![](https://github.com/visioncortex/.github/assets/1782664/20fc6361-177e-47a9-87f1-c4745f83cd6b)|
 |-----|
+|![](https://github.com/visioncortex/.github/assets/1782664/6ee29831-bd87-47ee-af55-df7348094810) ![](https://github.com/visioncortex/.github/assets/1782664/441a13c1-165c-4fc5-8b48-5ba866c8bc80)|
 |Recognizing arrow markers (highlighted in red) in engineering drawings. It would be simple if the graphic and markers don't overlap / intersect that much. But it can get messy.|
