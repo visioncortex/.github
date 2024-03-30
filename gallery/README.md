@@ -6,7 +6,7 @@
 
 |![](pdfeye-1.png)|
 |-----|
-|A tool for semantic analysis of SVG / PDF graphics.|
+|Rasterizing and recognizing elements of SVG documents.|
 
 |![](bubble-code-dark.png)|
 |-----|
