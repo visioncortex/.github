@@ -1,5 +1,9 @@
 # Semantic Computer Vision
 
+|![](character-images-01.png)|
+|-----|
+|Optical character recognition of Korean characters.|
+
 |![](pdfeye-1.png)|
 |-----|
 |A tool for semantic analysis of SVG / PDF graphics.|
