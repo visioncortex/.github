@@ -18,4 +18,4 @@ For the technologies that we developed, they all share a common set of technique
 
 |![image](https://github.com/visioncortex/.github/assets/1782664/20fc6361-177e-47a9-87f1-c4745f83cd6b)|
 |-----|
-|Recognizing arrow markers (highlighted in red) in engineering drawings.|
+|Recognizing arrow markers (highlighted in red) in engineering drawings. It would be simple if the graphic and markers don't overlap / intersect that much. But it can get messy.|
